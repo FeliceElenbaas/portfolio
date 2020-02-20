@@ -1,3 +1,3 @@
 # portfolio
 
-View my project online -> [GitHub](https://github.com/FeliceElenbaas
+View my project online -> https://github.com/FeliceElenbaas
