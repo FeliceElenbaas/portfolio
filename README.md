@@ -1,2 +1,3 @@
 # portfolio
-[GitHub](https://github.com)
+
+View my project online -> [GitHub](https://github.com)
